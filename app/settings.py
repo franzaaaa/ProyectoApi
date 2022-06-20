@@ -157,10 +157,10 @@ SWAGGER_SETTINGS = {
     }
 }
 
-DEFAULT_FROM_EMAIL = 'franzabaleta@hotmail.es'
+DEFAULT_FROM_EMAIL = ''
 
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.office365.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'franzabaleta@hotmail.es'
-EMAIL_HOST_PASSWORD = 'pi00000TU'
+EMAIL_HOST_USER = ''
+EMAIL_HOST_PASSWORD = ''
